@@ -1,5 +1,4 @@
-drain_ttt
-A simple tic-tac-toe game written in C.
+drain_ttt - A simple tic-tac-toe game written in C.
 
 INSTALL
 ----------
